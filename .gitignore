@@ -1,0 +1,7 @@
+.gradle
+.idea
+*.iml
+*.log
+build
+nohup.out
+supervisord.*
